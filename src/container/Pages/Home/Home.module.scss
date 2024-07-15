@@ -1,0 +1,26 @@
+
+
+@import '../../../Assest/Scss/Variable.scss';
+
+.headerSection {
+  background-color:$primaryColor;
+  height:100px;
+}
+
+.headerTextColor {
+  color: $secondaryColor;
+  font-size: $seccondaryFontSize;
+  font-family: $primaryFonts;
+}
+
+
+.textPadding {
+  padding: 50px;
+}
+
+.textBorder {
+  border: 3px solid black;
+}
+
+
+

@@ -1,0 +1,20 @@
+/* .footer {
+    background-color: #f0f0f0;
+    padding: 10px;
+    text-align: center;
+  } */
+
+  .footer {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    padding: 10px;
+    margin-top: 250px;
+    text-align: center;
+  }
+  
+  .footer-content {
+    color: white;
+    font-size: 20px;
+  }
+  
