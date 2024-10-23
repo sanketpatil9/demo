@@ -26,9 +26,9 @@ root.render(
   <React.StrictMode>
 
     <BrowserRouter>
-    <App />
+      <App />
     </BrowserRouter>
-    
+
     {/* <Home/> */}
     {/* <About/> */}
     {/* <Blog/> */}

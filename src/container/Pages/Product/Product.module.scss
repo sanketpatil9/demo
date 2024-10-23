@@ -1,0 +1,46 @@
+
+
+.boxMainWrapper {
+    display: flex;
+}
+
+.boxLeftWrapper {
+    padding: 30px;
+    border: 5px solid grey;
+    height: 200px;
+    // background-color: red;
+    width: 50%;
+}
+
+.boxRightWrapper {
+    // padding: 30px;
+    border: 5px solid palegreen;
+    // height: 200px;
+    background-color: pink;
+    width: 50%;
+}
+
+.headerText {
+    color: yellow;
+}
+
+.headerText2 {
+    color: darkblue;
+}
+
+.aboutSection {
+    //background-color: blue;
+    display: flex;
+    height: 300px;
+    width: 70%;
+     gap: 10px;
+    // justify-content: space-around;      // gap dete 4 side ni ..//
+    margin:10px ;           // ithe adhi margin delyver 4 side ne margin yeil nntr gap perfect work krel direct gap dela tr right side ne gap nahi yenar fkt between madhat yenar so adhi margin deli ..//
+
+}
+
+.studentSection {
+    background-color: orangered;
+    height: 400px;
+    width: 30%;
+}
